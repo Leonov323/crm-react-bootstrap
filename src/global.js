@@ -17,6 +17,6 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   .bg-black {
-    background: black;
+    background-color: black !important;
   }
   `
