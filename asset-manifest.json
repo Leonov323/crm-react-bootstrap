@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/crm-react-bootstrap/static/js/main.534385f8.chunk.js",
-    "main.js.map": "/crm-react-bootstrap/static/js/main.534385f8.chunk.js.map",
-    "runtime-main.js": "/crm-react-bootstrap/static/js/runtime-main.da067902.js",
-    "runtime-main.js.map": "/crm-react-bootstrap/static/js/runtime-main.da067902.js.map",
-    "static/js/2.cba422cf.chunk.js": "/crm-react-bootstrap/static/js/2.cba422cf.chunk.js",
-    "static/js/2.cba422cf.chunk.js.map": "/crm-react-bootstrap/static/js/2.cba422cf.chunk.js.map",
-    "index.html": "/crm-react-bootstrap/index.html",
-    "static/js/2.cba422cf.chunk.js.LICENSE.txt": "/crm-react-bootstrap/static/js/2.cba422cf.chunk.js.LICENSE.txt"
+    "main.js": "/hacker-crm/static/js/main.1dcd1f75.chunk.js",
+    "main.js.map": "/hacker-crm/static/js/main.1dcd1f75.chunk.js.map",
+    "runtime-main.js": "/hacker-crm/static/js/runtime-main.5229ec82.js",
+    "runtime-main.js.map": "/hacker-crm/static/js/runtime-main.5229ec82.js.map",
+    "static/js/2.b6ebf618.chunk.js": "/hacker-crm/static/js/2.b6ebf618.chunk.js",
+    "static/js/2.b6ebf618.chunk.js.map": "/hacker-crm/static/js/2.b6ebf618.chunk.js.map",
+    "index.html": "/hacker-crm/index.html",
+    "static/js/2.b6ebf618.chunk.js.LICENSE.txt": "/hacker-crm/static/js/2.b6ebf618.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.da067902.js",
-    "static/js/2.cba422cf.chunk.js",
-    "static/js/main.534385f8.chunk.js"
+    "static/js/runtime-main.5229ec82.js",
+    "static/js/2.b6ebf618.chunk.js",
+    "static/js/main.1dcd1f75.chunk.js"
   ]
 }
